@@ -1,0 +1,15 @@
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\Calificaciones alumnos.csproj.AssemblyReference.cache
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\Calificaciones alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\Calificaciones alumnos.AssemblyInfoInputs.cache
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\Calificaciones alumnos.AssemblyInfo.cs
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\Calificaciones alumnos.csproj.CoreCompileInputs.cache
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\bin\Debug\net6.0\Calificaciones alumnos.exe
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\bin\Debug\net6.0\Calificaciones alumnos.deps.json
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\bin\Debug\net6.0\Calificaciones alumnos.runtimeconfig.json
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\bin\Debug\net6.0\Calificaciones alumnos.dll
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\bin\Debug\net6.0\Calificaciones alumnos.pdb
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\Calificaciones alumnos.dll
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\refint\Calificaciones alumnos.dll
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\Calificaciones alumnos.pdb
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\Calificaciones alumnos.genruntimeconfig.cache
+C:\Cursos\Cursillo C#\Calificaciones alumnos\Calificaciones alumnos\obj\Debug\net6.0\ref\Calificaciones alumnos.dll

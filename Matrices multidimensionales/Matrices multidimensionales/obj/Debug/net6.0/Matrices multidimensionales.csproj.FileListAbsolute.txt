@@ -1,0 +1,15 @@
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\bin\Debug\net6.0\Matrices multidimensionales.exe
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\bin\Debug\net6.0\Matrices multidimensionales.deps.json
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\bin\Debug\net6.0\Matrices multidimensionales.runtimeconfig.json
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\bin\Debug\net6.0\Matrices multidimensionales.dll
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\bin\Debug\net6.0\Matrices multidimensionales.pdb
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\Matrices multidimensionales.csproj.AssemblyReference.cache
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\Matrices multidimensionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\Matrices multidimensionales.AssemblyInfoInputs.cache
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\Matrices multidimensionales.AssemblyInfo.cs
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\Matrices multidimensionales.csproj.CoreCompileInputs.cache
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\Matrices multidimensionales.dll
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\refint\Matrices multidimensionales.dll
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\Matrices multidimensionales.pdb
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\Matrices multidimensionales.genruntimeconfig.cache
+C:\Cursos\Cursillo C#\Matrices multidimensionales\Matrices multidimensionales\obj\Debug\net6.0\ref\Matrices multidimensionales.dll

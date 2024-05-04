@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Cursillo-de-C-ejercicio-calificacion-alumnos
-=======
 # Cursillo-de-C-MATRICES
 using System;
 using System.Collections.Generic;
@@ -59,4 +56,3 @@ namespace Seccion6
         }
     }
 }
->>>>>>> e217e0e0475dfdda50eeaacb50ed4d9d384f246b
